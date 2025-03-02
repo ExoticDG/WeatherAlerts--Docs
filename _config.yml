@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Smart Location Tracking
     description                           : Tracks location trough built in Android APIs to consonantly provide accrete data for your location.
-    fontawesome_icon_name                 : location-dot
+    fontawesome_icon_name                 : https://fontawesome.com/icons/location-dot?f=classic&s=solid
     
   - title                                 : Accurate Data
     description                           : Provides accurate data for US citizens through National Weather Service API's
