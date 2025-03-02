@@ -4,57 +4,93 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
+## WeatherAlerts Privacy Policy
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+**Last Updated:** 3-2-2025 (MM/DD/YYYY)
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+**1. Introduction**
 
-<br>
+WeatherAlerts ("we," "us," or "our") is committed to protecting the privacy of our users. This Privacy Policy describes how we collect, use, disclose, and protect your information when you use the WeatherAlerts Android application ("App"). 
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+**2. Information We Collect**
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+We collect the following types of information:
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+* **Personal Information:**
 
-<br>
+   * We do not collect any personal information, such as your name, email address, phone number, or location, unless you choose to provide it voluntarily. For example, you may choose to provide this information when contacting us for support.
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+* **Usage Data:**
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+   * We automatically collect information about how you use the App, such as:
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+      * Geolocaiton
 
-<br>
+* **Location Data:**
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+   * We may collect your location data when you enable location services for the App. This is used to provide you with accurate and relevant weather alerts based on your current location. You can disable location services at any time through your device settings. Though please note this app can't function properly without it.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+* **Data from Trusted Sources:** 
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+    *  We rely on trusted sources for alert and weather information, including the National Weather Service (NWS), National Oceanic and Atmospheric Administration (NOAA), and Federal Emergency Management Agency (FEMA). These sources may collect and share anonymized data with us to improve our service. We do not have access to any personally identifiable information from these sources.
 
-<br>
+**3. How We Use Your Information**
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+We use the information we collect for the following purposes:
 
-<br>
+* **To provide and improve the App:** 
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+   * We use your usage data to understand how you use the App and to identify areas for improvement.
+* **To personalize your experience:**
+
+   *  We may use your location data to provide you with weather alerts and forecasts relevant to your area.
+* **To communicate with you:**
+
+    * We may use your contact information (if provided) to respond to your inquiries or provide you with updates about the App.
+* **For legal compliance:**
+
+   * We may use your information to comply with applicable laws and regulations.
+
+**4. Disclosure of Your Information**
+
+We do not sell, trade, or rent your personal information to third parties. However, we may disclose your information in the following circumstances:
+
+* **To service providers:** We may share your information with trusted third-party service providers who assist us in operating the App, conducting our business, or servicing you. These service providers are obligated to protect your information and may not use it for any other purpose.
+
+* **To comply with legal obligations:** We may disclose your information if required by law or in response to a valid request from a government authority.
+
+**5. Data Security**
+
+We take appropriate security measures to protect your information from unauthorized access, disclosure, alteration, or destruction. However, no method of transmission over the Internet or electronic storage is 100% secure.
+
+ **6. Children's Privacy**
+
+The App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13.
+
+**7. Your Rights**
+
+You have the following rights regarding your personal information:
+
+* **Access:** You can request access to the personal information we hold about you.
+* **Correction:** You can request that we correct any inaccurate or incomplete personal information we hold about you.
+* **Deletion:** You can request that we delete your personal information. 
+
+**8. Changes to this Privacy Policy**
+
+We may update this Privacy Policy from time to time. We will post the updated policy on the App and indicate the date of the last revision.
+
+**9. Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+
+[Insert your contact email address]
+
+
+
+**10. Open Source Code**
+
+The source code for WeatherAlerts is available publicly through GitHub. This allows for transparency and community scrutiny of the app's functionality and data handling practices. 
+
+
+
