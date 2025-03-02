@@ -36,7 +36,7 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Smart Location Tracking
-    description                           : Tracks location trough built in Android APIs to consonantly provide accrete data for your location.
+    description                           : Tracks location through built in Android APIs to consonantly provide accurate data for your location.
     fontawesome_icon_name                 : 
     
   - title                                 : Accurate Data
