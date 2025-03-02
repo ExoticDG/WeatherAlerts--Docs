@@ -37,39 +37,39 @@ features                                  :
 
   - title                                 : Smart Location Tracking
     description                           : Tracks location trough built in Android APIs to consonantly provide accrete data for your location.
-    fontawesome_icon_name                 : https://fontawesome.com/icons/location-dot?f=classic&s=solid
+    fontawesome_icon_name                 : 
     
   - title                                 : Accurate Data
     description                           : Provides accurate data for US citizens through National Weather Service API's
-    fontawesome_icon_name                 : bullseye-arrow 
+    fontawesome_icon_name                 :  
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Alert Method Variety
+    description                           : A large variety of alteration methods using the various Android API's provided by Google LLC such as System-Overlay alerts and custom vibration patterns for life-threatening alerts.
+    fontawesome_icon_name                 : 
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Fast Alerts
+    description                           : With a combination of Google Firebase, Google Cloud, and government API's you will be notified of any on-coming disaster ASAP.
+    fontawesome_icon_name                 : 
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Backwards Compatible
+    description                           : This app has been tested on devices all the way back to the Google Pixel 2 and Android 11, ensuring compatibility with a large variety of devices.
+    fontawesome_icon_name                 : 
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Indie-Dev
+    description                           : No big corporation behind this. Just a solo dev who had a problem with the slowness, inaccuracies, and trustworthiness of other applications.
+    fontawesome_icon_name                 : 
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Available Code
+    description                           : Done trust this app? Thats fine! I didn't trust the others with my life. I have made all of the code for my application alible on GitHub under a All Rights Reserved license. Feel free to look at it!
+    fontawesome_icon_name                 : 
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : TITLE
+    description                           : DESCRIPTION
+    fontawesome_icon_name                 : 
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : TITLE
+    description                           : DESCRIPTION
+    fontawesome_icon_name                 : 
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
