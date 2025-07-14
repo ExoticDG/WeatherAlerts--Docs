@@ -336,7 +336,9 @@ nav > ul li a:active {
 .downloadButtonsContainer {
 	display: inline-block;
 	margin-top: 42px;
-	filter: $drop-shadow
+	filter: $drop-shadow;
+	grid-template-columns: 1fr 1fr; 
+    grid-gap: 20px; 
 
 }
 
@@ -344,8 +346,8 @@ nav > ul li a:active {
 
 	.downloadButtonsContainer {
 		text-align: center;
-		grid-template-columns: 1fr 1fr; 
-    	grid-gap: 20px; 
+		display: grid; 
+
 
 	}
 	
