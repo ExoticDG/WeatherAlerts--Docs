@@ -370,9 +370,28 @@ nav > ul li a:active {
 	
 } 
 
-.appStore {
+.gitHub {
 	height: 75px;
+	margin-right: 24px;
 }
+
+@media only screen and (max-width: 992px) {
+
+	.gitHub {
+		margin-right: 24px;
+		margin-bottom: 0px;
+	}
+	
+} 
+
+@media only screen and (max-width: 528px) {
+
+	.gitHub {
+		margin-right: 0px;
+		margin-bottom: 24px;
+	}
+	
+} 
 
 
 
