@@ -4,7 +4,7 @@ page_title                                : WeatherAlerts Official Website      
 # App Info
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            :                                           # Enter Google Play Store URL.
+playstore_link                            : https://github.com/ExoticDG/WeatherAlerts/releases                                          # Enter Google Play Store URL.
 presskit_download_link                    : https://github.com/ExoticDG/WeatherAlerts/releases                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
 github_download_link                      : https://github.com/ExoticDG/WeatherAlerts/releases                                                               # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
@@ -37,40 +37,40 @@ features                                  :
 
   - title                                 : Smart Location Tracking
     description                           : Tracks location through built in Android APIs to consonantly provide accurate data for your location.
-    fontawesome_icon_name                 : 
+    fontawesome_icon_name                 : star
     
   - title                                 : Accurate Data
     description                           : Provides accurate data for US citizens through National Weather Service API's
-    fontawesome_icon_name                 :  
+    fontawesome_icon_name                 : star
 
   - title                                 : Alert Method Variety
     description                           : A large variety of alteration methods using the various Android API's provided by Google LLC such as System-Overlay alerts and custom vibration patterns for life-threatening alerts.
-    fontawesome_icon_name                 : 
+    fontawesome_icon_name                 : star
 
   - title                                 : Fast Alerts
     description                           : With a combination of Google Firebase, Google Cloud, and government API's you will be notified of any on-coming disaster ASAP.
-    fontawesome_icon_name                 : 
+    fontawesome_icon_name                 : star
 
   - title                                 : Backwards Compatible
     description                           : This app has been tested on devices all the way back to the Google Pixel 2 and Android 11, ensuring compatibility with a large variety of devices.
-    fontawesome_icon_name                 : 
+    fontawesome_icon_name                 : star
   
   - title                                 : Indie-Dev
     description                           : No big corporation behind this. Just a solo dev who had a problem with the slowness, inaccuracies, and trustworthiness of other applications.
-    fontawesome_icon_name                 : 
+    fontawesome_icon_name                 : star
 
   - title                                 : Available Code
     description                           : Don't trust this app? Thats fine! I didn't trust the others with my life. I have made all of the code for my application available on GitHub under a All Rights Reserved license. Feel free to look at it!
-    fontawesome_icon_name                 : 
+    fontawesome_icon_name                 : star
 
   - title                                 : TITLE
     description                           : DESCRIPTION
-    fontawesome_icon_name                 : 
+    fontawesome_icon_name                 : star
 
 
   - title                                 : TITLE
     description                           : DESCRIPTION
-    fontawesome_icon_name                 : 
+    fontawesome_icon_name                 : star
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
