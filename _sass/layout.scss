@@ -337,6 +337,9 @@ nav > ul li a:active {
 	display: inline-block;
 	margin-top: 42px;
 	filter: $drop-shadow;
+	grid-template-columns: 1fr 1fr; 
+    grid-gap: 20px; 
+
 }
 
 @media only screen and (max-width: 992px) {

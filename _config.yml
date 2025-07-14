@@ -10,7 +10,7 @@ github_download_link                      : https://github.com/ExoticDG/WeatherA
 
 app_icon                                  : assets/ic_launcher_round.png
 app_name                                  : WeatherAlerts
-app_price                                 : Free!
+app_price                                 : "Price : Free!"
 app_description                           : The app that prioritizes your safety and security over profit.
 
 
