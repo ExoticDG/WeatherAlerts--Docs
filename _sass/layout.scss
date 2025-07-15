@@ -334,11 +334,12 @@ nav > ul li a:active {
 } 
 
 .downloadButtonsContainer {
-	display: inline-block;
+
 	margin-top: 42px;
 	filter: $drop-shadow;
-	grid-template-columns: 1fr 1fr; 
-    grid-gap: 20px; 
+	padding: 2rem 2rem;
+ 	text-align: center;
+
 
 }
 
@@ -356,6 +357,9 @@ nav > ul li a:active {
 .playStore {
 	height: 75px;
 	margin-right: 24px;
+	display: inline-block;
+  	padding: 1rem 1rem;
+  	vertical-align: middle;
 }
 
 @media only screen and (max-width: 992px) {
@@ -363,6 +367,9 @@ nav > ul li a:active {
 	.playStore {
 		margin-right: 24px;
 		margin-bottom: 0px;
+		display: inline-block;
+  		padding: 1rem 1rem;
+  		vertical-align: middle;
 	}
 	
 } 
@@ -372,6 +379,9 @@ nav > ul li a:active {
 	.playStore {
 		margin-right: 0px;
 		margin-bottom: 24px;
+		display: inline-block;
+  		padding: 1rem 1rem;
+  		vertical-align: middle;
 	}
 	
 } 
@@ -379,6 +389,9 @@ nav > ul li a:active {
 .gitHub {
 	height: 75px;
 	margin-right: 24px;
+	display: inline-block;
+  	padding: 1rem 1rem;
+  	vertical-align: middle;
 }
 
 @media only screen and (max-width: 992px) {
@@ -386,6 +399,9 @@ nav > ul li a:active {
 	.gitHub {
 		margin-right: 24px;
 		margin-bottom: 0px;
+		display: inline-block;
+  		padding: 1rem 1rem;
+  		vertical-align: middle;
 	}
 	
 } 
@@ -395,6 +411,9 @@ nav > ul li a:active {
 	.gitHub {
 		margin-right: 0px;
 		margin-bottom: 24px;
+		display: inline-block;
+  		padding: 1rem 1rem;
+  		vertical-align: middle;
 	}
 	
 } 
