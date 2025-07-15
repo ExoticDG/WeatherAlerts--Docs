@@ -354,7 +354,7 @@ nav > ul li a:active {
 	
 } 
 
-.playStore {
+.Discord {
 	height: 75px;
 	margin-right: 24px;
 	display: inline-block;
@@ -364,7 +364,7 @@ nav > ul li a:active {
 
 @media only screen and (max-width: 992px) {
 
-	.playStore {
+	.Discord {
 		margin-right: 24px;
 		margin-bottom: 0px;
 		display: inline-block;
@@ -376,12 +376,67 @@ nav > ul li a:active {
 
 @media only screen and (max-width: 528px) {
 
-	.playStore {
+	.Discord {
 		margin-right: 0px;
 		margin-bottom: 24px;
 		display: inline-block;
   		padding: 1rem 1rem;
   		vertical-align: middle;
+	}
+	
+} 
+
+.Badges {
+	height: 75px;
+	margin-right: 24px;
+	display: inline-block;
+  	padding: 1rem 1rem;
+  	vertical-align: middle;
+}
+
+@media only screen and (max-width: 992px) {
+
+	.Badges {
+		margin-right: 24px;
+		margin-bottom: 0px;
+		display: inline-block;
+  		padding: 1rem 1rem;
+  		vertical-align: middle;
+	}
+	
+} 
+
+@media only screen and (max-width: 528px) {
+
+	.Badges {
+		margin-right: 0px;
+		margin-bottom: 24px;
+		display: inline-block;
+  		padding: 1rem 1rem;
+  		vertical-align: middle;
+	}
+	
+} 
+
+.playStore {
+	height: 75px;
+	margin-right: 24px;
+}
+
+@media only screen and (max-width: 992px) {
+
+	.playStore {
+		margin-right: 24px;
+		margin-bottom: 0px;
+	}
+	
+} 
+
+@media only screen and (max-width: 528px) {
+
+	.playStore {
+		margin-right: 0px;
+		margin-bottom: 24px;
 	}
 	
 } 
@@ -389,9 +444,6 @@ nav > ul li a:active {
 .gitHub {
 	height: 75px;
 	margin-right: 24px;
-	display: inline-block;
-  	padding: 1rem 1rem;
-  	vertical-align: middle;
 }
 
 @media only screen and (max-width: 992px) {
@@ -399,9 +451,6 @@ nav > ul li a:active {
 	.gitHub {
 		margin-right: 24px;
 		margin-bottom: 0px;
-		display: inline-block;
-  		padding: 1rem 1rem;
-  		vertical-align: middle;
 	}
 	
 } 
@@ -411,9 +460,6 @@ nav > ul li a:active {
 	.gitHub {
 		margin-right: 0px;
 		margin-bottom: 24px;
-		display: inline-block;
-  		padding: 1rem 1rem;
-  		vertical-align: middle;
 	}
 	
 } 
