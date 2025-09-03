@@ -40,7 +40,7 @@ features                                  :
     fontawesome_icon_name                 : location-pin-lock
     
   - title                                 : Accurate Data
-    description                           : Provides accurate data for US citizens through National Weather Service API's
+    description                           : Provides accurate data for US citizens through government API endpoints from trusted orginisations such as the Natinal Weather Service (NWS) and Federal Emergancy Managment Association (FEMA). 
     fontawesome_icon_name                 : database
 
   - title                                 : Alert Method Variety
