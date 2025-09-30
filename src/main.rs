@@ -1,4 +1,5 @@
 use yew::prelude::*;
+use crate::components::button::Default;
 
 #[function_component(App)]
 fn app() -> Html {
